@@ -30,6 +30,7 @@ weather-app/
 ├── script.js
 ├── assets/
 └── README.md
+```
 
 <!-- AUTHOR_START -->
 ---
